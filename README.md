@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [dharmiksoni1996@gmail.com](mailto:contact@dharmiksoni.com)
+* ✉️  You can contact me at [contact@dharmiksoni.com](mailto:contact@dharmiksoni.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
