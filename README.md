@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://iam.projektify.tech)
 * ✉️  You can contact me at [dharmiksoni1996@gmail.com](mailto:dharmiksoni1996@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
